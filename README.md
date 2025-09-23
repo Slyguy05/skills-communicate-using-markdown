@@ -23,13 +23,6 @@ _Organize ideas and collaborate using Markdown, a lightweight language for text 
 
 ## Step 1: Add headers
 
-# First Header
-## Second Header
-### Third Header
-##### Fourth Header
-###### Fifth Header
-###### Sixth Header
-
 
 _Welcome to "Communicate using Markdown"! :wave:_
 
